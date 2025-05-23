@@ -8,4 +8,3 @@ I am an game programmer.
 
 ### Released Game
 - **Smash Hero** (2024)  
-  ![SmashHero](https://github.com/user-attachments/assets/af20c3d5-c548-4502-a575-dd9d6a3140a3)
