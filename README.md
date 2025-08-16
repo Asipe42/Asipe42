@@ -1,9 +1,6 @@
 한국에서 활동하는 게임 프로그래머입니다.  
-최고가 되고, 최고의 동료와 함께 세상을 놀라게 할 게임을 만들기 위해 노력하고 있습니다.
+최고가 되어, 최고의 동료들과 함께 세상을 놀라게 할 게임을 만드는 날이 올 것이라 믿습니다.  
 
-포트폴리오: [링크](https://persistent-lilac-f5f.notion.site/187613d09c45805e946cf2336055f326?pvs=74)
-
----
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eom5005)](https://solved.ac/eom5005)  
-[![Asipe42's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Asipe42)](https://github.com/anuraghazra/github-readme-stats)
+| Solved.ac | WakaTime |
+|-----------|----------|
+| [![Solved Badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=eom5005)](https://solved.ac/eom5005) | [![Asipe42's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Asipe42&style=for-the-badge)](https://github.com/anuraghazra/github-readme-stats) |
