@@ -4,4 +4,4 @@
 
 포트폴리오: [링크](https://persistent-lilac-f5f.notion.site/187613d09c45805e946cf2336055f326?pvs=74)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eom5005)](https://solved.ac/eom5005)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eom5005)](https://solved.ac/eom5005)
